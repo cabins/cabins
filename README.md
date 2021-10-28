@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 My name is cabins
 
 <!--
 **cabins/cabins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Software Development Engineer in Test, China
+- 🌱 Programing in Go, Python, Elisp...
+- 💖 Emacs lover
+- 💖 Flypy lover
+
+You may found me & my course at [Bilibili](https://space.bilibili.com/210738994).
