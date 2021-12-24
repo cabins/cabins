@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 Software Development Engineer in Test, China
-- 🌱 Programing in Go, Python, Elisp...
+- 🌱 Programing in Go, Python, Java, Elisp...
 - 💖 Emacs lover
 - 💖 Flypy lover
 
